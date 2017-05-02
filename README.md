@@ -8,7 +8,7 @@
 
 >
 > 工具类
-> 2
+> 244
 > > ActivityManager     【activity的管理类】
 > 
 > > AppUtils            【App相关辅助类】

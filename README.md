@@ -8,8 +8,8 @@
 
 >
 > 工具类
-> 
-> > ActivityManager     【activity的管理类】
+> 2
+> > ActivityManager     【activity的管理类】
 > 
 > > AppUtils            【App相关辅助类】
 > 1

@@ -12,7 +12,7 @@
 > > ActivityManager     【activity的管理类】
 > 
 > > AppUtils            【App相关辅助类】
-> 
+> 1
 > > DensityUtil         【dp和px单位转换】
 > 
 > > KeyBoardUtils       【输入键盘相关】      

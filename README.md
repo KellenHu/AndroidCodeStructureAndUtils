@@ -1,4 +1,4 @@
-     
+     
 
 
 # **本仓库用于存放安卓开发过程中积累总结的项目开发规范、常用工具类以及每次分享会讨论主题的示例代码**
@@ -46,4 +46,4 @@
 
 [git在线练习](https://github.com/pcottle/learnGitBranching)
 
-[leetcode](https://github.com/haoel/leetcode)  
+[leetcode](https://github.com/haoel/leetcode)  3

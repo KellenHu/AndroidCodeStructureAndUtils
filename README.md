@@ -34,6 +34,7 @@
 ## android中的框架设计模式
 
 [MVP模式](http://rocko.xyz/2015/02/06/Android%E4%B8%AD%E7%9A%84MVP/)
+(MVP)的demo可以去看看我的置顶project
 
 
 ## 优秀开源项目推荐
